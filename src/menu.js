@@ -1,6 +1,6 @@
 class Menu {
     constructor() {
-        this.items = {
+        this.itens = {
             cafe: { descricao: "Café", valor: 3.00 },
             chantily: { descricao: "Chantily (extra do Café)", valor: 1.50 },
             suco: { descricao: "Suco Natural", valor: 6.20 },
@@ -18,7 +18,7 @@ class Menu {
     }
 
     getItem(codigo) {
-        return this.items[codigo] || null;
+        return this.itens[codigo] || null;
     }
 
     isExtra(codigo) {
