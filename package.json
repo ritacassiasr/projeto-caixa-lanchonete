@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
+  "main": "src/caixa-da-lanchonete.js",
   "scripts": {
+    "start": "node src/caixa-da-lanchonete.js",
     "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "keywords": [],
