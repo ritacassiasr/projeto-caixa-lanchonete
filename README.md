@@ -1,6 +1,6 @@
 # CAIXA DA LANCHONETE
 
-# Nesse projeto automatizamos um caixa da Lanchonete, construindo a lógica que calcula o valor de uma compra de acordo com o cardápio, regras e descontos da Lanchonete.
+## Nesse projeto automatizamos um caixa da Lanchonete, construindo a lógica que calcula o valor de uma compra de acordo com o cardápio, regras e descontos da Lanchonete.
 
 ### CARDÁPIO
 
